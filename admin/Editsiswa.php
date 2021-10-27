@@ -101,8 +101,8 @@ die("<script language=\"Javascript\">alert(\"Silahkan Login Terlebih Dahulu\");d
             <td> <h3> Kelas </h3> </td>
             <td> <h3> : </h3> </td>
             <td> <select name="kls" class="form-control" required>
-                    <option value="X - TP 1"> X-TFL 1 </option>
-                    <option value="X - TP 2"> X-TFL 2 </option>
+                    <option value="X - TFL 1"> X-TFL 1 </option>
+                    <option value="X - TFL 2"> X-TFL 2 </option>
                     <option value="X - TKR 1"> X-TKR 1 </option>
                     <option value="X - TKR 2"> X-TKR 2 </option>
                     <option value="X - TKR 3"> X-TKR 3 </option>
