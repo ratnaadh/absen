@@ -9,5 +9,5 @@ Aplikasi ini digunakan untuk mencatat kehadiran siswa siswi SMK Negeri 4 Kota Bo
 nama Database : ab
 
 admin account
-id : admin
-pass : admin
+- id : admin
+- pass : admin
